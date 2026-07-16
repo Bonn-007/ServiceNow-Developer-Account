@@ -1,3 +1,4 @@
+https://www.loom.com/share/46a7b5ca7fe74a53a9e19bf6eda555e2
 # How to Create a ServiceNow Developer Account
 
 This guide walks you through creating a free ServiceNow Developer
